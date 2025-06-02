@@ -43,7 +43,7 @@ const OurStoryPage: React.FC = () => {
       </header>
 
       {/* Hero Section */}
-      <div className="px-6 py-20">
+      <div className="px-6 pt-20">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-5xl font-bold text-gray-900 mb-6">
             Our Story
